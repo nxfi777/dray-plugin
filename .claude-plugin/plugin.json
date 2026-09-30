@@ -1,13 +1,19 @@
 {
   "name": "dray",
   "displayName": "Dray",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "One memory for all your AI assistants and coding agents. Ask what you decided, or what you told a different assistant, and get your own words back with the date.",
   "author": {
     "name": "Dray",
     "url": "https://withdray.com"
   },
   "homepage": "https://withdray.com",
+  "repository": "https://github.com/nxfi777/dray-plugin",
+  "documentationUrl": "https://withdray.com/connect",
+  "supportUrl": "https://withdray.com/help",
+  "privacyPolicyUrl": "https://withdray.com/privacy",
+  "termsOfServiceUrl": "https://withdray.com/terms",
+  "icon": "./assets/icon.svg",
   "keywords": [
     "memory",
     "recall",
