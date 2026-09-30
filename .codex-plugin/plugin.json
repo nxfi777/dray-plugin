@@ -1,0 +1,43 @@
+{
+  "name": "dray",
+  "version": "1.2.0",
+  "description": "One memory for all your AI assistants and coding agents. Ask what you decided, or what you told a different assistant, and get your own words back with the date.",
+  "author": {
+    "name": "Dray",
+    "url": "https://withdray.com"
+  },
+  "homepage": "https://withdray.com",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "recall",
+    "history",
+    "context",
+    "assistants"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Dray",
+    "shortDescription": "One memory for all your agents",
+    "longDescription": "You told Claude about the project last week. Today you are in ChatGPT, explaining it again.\n\nDray keeps what you tell each of your AI assistants in one memory, so this one can look up what you said to another: Claude, Grok, or a coding agent like Cursor or Claude Code.\n\nAsk \"what did we decide about the launch date in March?\" and you get your own words back, with the date. No summary in between. Dray also keeps a short profile of how you like to work, and it can show you when a fact about you changed.\n\nYou can link up to four chats, in different assistants, so they pass questions and work to each other while you watch.\n\nNothing is hidden from you. Your Dray account lists every lookup and what it returned. You can pause memory, hide a chat or delete anything.\n\nIf you only ever use one assistant, you do not need this. You need a Dray account to use it.",
+    "developerName": "Dray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://withdray.com",
+    "supportURL": "https://withdray.com/help",
+    "privacyPolicyURL": "https://withdray.com/privacy",
+    "termsOfServiceURL": "https://withdray.com/terms",
+    "defaultPrompt": [
+      "What did I decide about this before?",
+      "What did I tell my other assistant about this?",
+      "What do you know about how I like to work?"
+    ],
+    "brandColor": "#2b0a12",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

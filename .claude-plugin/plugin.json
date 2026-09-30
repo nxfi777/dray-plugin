@@ -1,0 +1,19 @@
+{
+  "name": "dray",
+  "displayName": "Dray",
+  "version": "1.2.0",
+  "description": "One memory for all your AI assistants and coding agents. Ask what you decided, or what you told a different assistant, and get your own words back with the date.",
+  "author": {
+    "name": "Dray",
+    "url": "https://withdray.com"
+  },
+  "homepage": "https://withdray.com",
+  "keywords": [
+    "memory",
+    "recall",
+    "history",
+    "context",
+    "assistants"
+  ],
+  "license": "MIT"
+}

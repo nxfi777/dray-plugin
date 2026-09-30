@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dray": {
+      "type": "http",
+      "url": "https://mcp.withdray.com/mcp"
+    }
+  }
+}
